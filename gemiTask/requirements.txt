@@ -1,0 +1,4 @@
+argparse
+google-generativeai
+python-dateutil
+setuptools
