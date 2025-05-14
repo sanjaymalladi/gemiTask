@@ -33,4 +33,4 @@ ENV/
 
 # Project specific
 config.json
-tasks.json 
+tasks.json
